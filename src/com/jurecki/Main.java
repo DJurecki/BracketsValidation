@@ -20,6 +20,8 @@ public class Main {
                 break;
             }
         }
+        int liczba = 0;
+        System.out.println(liczba);
 
         System.out.println("Tyle '(': " + firstCounter + " i tyle ')': " + secondCounter);
 
