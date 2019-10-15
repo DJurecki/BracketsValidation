@@ -20,10 +20,11 @@ public class Main {
                 break;
             }
         }
-        // elo
-        System.out.println();
+
         System.out.println("Tyle '(': " + firstCounter + " i tyle ')': " + secondCounter);
 
+        System.out.println("Siemanko z brancza");
 
+        System.err.println("Error i kapa");
     }
 }
