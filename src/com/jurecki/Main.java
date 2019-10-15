@@ -20,6 +20,7 @@ public class Main {
                 break;
             }
         }
+        System.out.println("znowu");
         int liczba = 0;
         System.out.println(liczba);
 
