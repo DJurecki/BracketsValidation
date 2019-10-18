@@ -4,30 +4,20 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String str = "())((())))";
+        System.out.println(checkBrackets("(()))"));
+        System.out.println(checkBrackets("(())"));
+   }
+
+    public static boolean checkBrackets(String s){
         int firstCounter = 0;
         int secondCounter = 0;
-        for (int i = 0 ; i != str.length() ; i++){
-            char c = str.charAt(i);
-            if(c == '('){
-                firstCounter++;
-            }
-            if(c == ')'){
-                secondCounter++;
-            }
-            if (secondCounter > firstCounter){
-                System.out.println("Not good!");
-                break;
-            }
+        for(int i = 0 ; i < s.length() ; i++){
+            char c = s.charAt(i);
+            if(c == '(') firstCounter++;
+            if(c == ')') secondCounter++;
+            if(secondCounter > firstCounter) return false;
+            if(i == s.length()-1 && secondCounter == firstCounter) return true;
         }
-        System.out.println("znowu");
-        int liczba = 0;
-        System.out.println(liczba);
-
-        System.out.println("Tyle '(': " + firstCounter + " i tyle ')': " + secondCounter);
-
-        System.out.println("Siemanko z brancza");
-
-        System.err.println("Error i kapa");
+        return false;
     }
 }

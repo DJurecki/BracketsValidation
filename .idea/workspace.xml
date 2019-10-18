@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63743f08-e3c7-4dc4-85be-00d378ba2ee2" name="Default Changelist" comment="dodalem komentarz" />
+    <list default="true" id="63743f08-e3c7-4dc4-85be-00d378ba2ee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jurecki/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jurecki/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571129299243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dodalem komentarz closes #1">
+      <created>1571130229980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571130229980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dodalem komentarz" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodalem komentarz" />
+    <MESSAGE value="dodalem komentarz closes #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodalem komentarz closes #1" />
   </component>
 </project>
