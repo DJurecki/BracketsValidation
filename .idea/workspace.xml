@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="63743f08-e3c7-4dc4-85be-00d378ba2ee2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jurecki/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jurecki/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/151019z1/com/jurecki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/151019z1/com/jurecki/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571130229980</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dodalem komentarz closes #1">
+      <created>1571382111885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571382111885</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
